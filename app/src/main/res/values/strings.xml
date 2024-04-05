@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab 5A</string>
+
+    <string name="totalBill">Total Bill</string>
+    <string name="tipPercentage">Tip Percentage</string>
+    <string name="numPeople">Number of People</string>
+    <string name="calculate">Calculate</string>
+    <string name="totalPerPerson">Total per Person: </string>
+
+    <string name="fTemp">Fahrenheit</string>
+    <string name="cTemp">Celsius</string>
+    <string name="convert">Convert</string>
+
+    <string name="miles">Miles</string>
+    <string name="kilometers">Kilometers</string>
+
+    <string name="error1">Please fill in all fields. </string>
+    <string name="error2">Please enter a temperature. </string>
+    <string name="error3">Please enter a distance. </string>
+
+    <string-array name="tab_names">
+        <item>Tip Calculator</item>
+        <item>Temperature Converter</item>
+        <item>Distance Converter</item>
+    </string-array>
+</resources>
